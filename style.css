@@ -1,0 +1,40 @@
+body{
+    font-family: 'Island Moments', cursive;
+font-family: 'Poppins', sans-serif;
+}
+h1{
+    display: inline;
+    height: 50px;
+}
+.head{
+    margin-top: 150px;
+    margin-left: 130px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 42px;
+    padding: 20px;
+    border-left: 10px solid;
+    border-image: linear-gradient( aqua);
+    border-image-slice: 32;
+}
+.clrone{
+    color: aqua;
+}
+section{
+    display: flex;
+}
+.spc{
+    width: 50%;
+    padding: 5%;
+}
+.spci img{
+    width: 50%;
+}
+.link-button{
+    text-decoration: none;
+    background-color:rgb(233, 156, 131);
+    color: darkred;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+
+}
